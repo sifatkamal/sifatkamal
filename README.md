@@ -9,4 +9,4 @@ I'm Md. Sifat Kamal. Currently, I'm a 3rd-year student of Computer Science and E
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatkamal&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=4D35C5)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=7F3ACE)
