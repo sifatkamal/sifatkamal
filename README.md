@@ -7,7 +7,7 @@ I'm Md. Sifat Kamal. Currently, I'm a 3rd-year student of Computer Science and E
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=sifatkamal&show_icons=true&theme=midnight-purple">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifatkamal&layout=compact&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifatkamal&layout=compact&theme=midnight-purple" width: 10>
 </a>
 
 
