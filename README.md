@@ -10,7 +10,5 @@ I'm Md. Sifat Kamal. Currently, I'm a 3rd-year student of Computer Science and E
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifatkamal&layout=compact&theme=midnight-purple" width="347">
 </a>
 
-<i class="fa-brands fa-facebook"></i>
-
 
 
