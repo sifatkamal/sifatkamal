@@ -5,7 +5,7 @@ I'm Md. Sifat Kamal. Currently, I'm a 3rd-year student of Computer Science and E
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=7f3ace)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sifatkamal&show_icons=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sifatkamal&show_icons=true&theme=midnight-purple" width="450"/>
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifatkamal&layout=compact&theme=midnight-purple" width="450"/>
 </a>
