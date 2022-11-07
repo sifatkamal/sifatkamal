@@ -43,7 +43,7 @@ Currently, I'm a 3rd-year student of Computer Science and Engineering who tries 
 <h2 align="CENTER">Contact info:</h2>
 <p align="center">
 Email:
-<a href="sifatkamal42@gmail.com">sifatkamal42@gmail.com</a></p>
+<a href="md.sifat.kamal@g.bracu.ac.bd">sifatkamal42@gmail.com</a></p>
 <p align="center">  
 <a href="https://www.linkedin.com/in/md-sifat-kamal-120326147/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sifat.kamal.9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
