@@ -6,7 +6,7 @@ Currently, I'm a 4th-year student of Computer Science and Engineering who tries 
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=7f3ace)
+<!-- ![](https://komarev.com/ghpvc/?username=your-github-username&color=7f3ace) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=sifatkamal&show_icons=true&theme=midnight-purple">
