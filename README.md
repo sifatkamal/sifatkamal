@@ -32,7 +32,7 @@ Currently, I'm a 4th-year student of Computer Science and Engineering who tries 
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,ps,ae" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40">
   </a>
 </p>
   
