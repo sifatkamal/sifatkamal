@@ -2,7 +2,7 @@
 
 <h3 align="center">Undergraduate student of BRAC University</h3>
 
-Currently, I'm a 4th-year student of Computer Science and Engineering who tries to be well organized and passionate about every types of work. I every time eager to learn new skills and always look for an opportunity to achieve something good.
+<!-- Currently, I'm a 4th-year student of Computer Science and Engineering who tries to be well organized and passionate about every types of work. I every time eager to learn new skills and always look for an opportunity to achieve something good. -->
 
 
 
