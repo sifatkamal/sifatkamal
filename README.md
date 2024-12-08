@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Md. Sifat Kamal</h1>
+<!--<h1 align="center">Hi, I'm Md. Sifat Kamal</h1>-->
+
+<p align="center">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&color=2CD1F7&size=24&lines=Hi%2C%20There!!%20👋;I'm%20Md.%20Sifat%20Kamal;CSE%20Graduate%2C%20BRAC%20University"></a>
+</p>
 
 <h3 align="center">Software Testing | Web Development | Graphics Designing</h3>
 
