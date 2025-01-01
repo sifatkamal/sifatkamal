@@ -22,7 +22,7 @@
  <h3 align="center"><b>Tools</b></h3> 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,bootstrap,css,django,mysql,latex,flask" />
+    <img src="https://skillicons.dev/icons?i=py,java,postman,selenium,html,css,django,flask,mysql,git" />
   
 </p>
   
@@ -31,14 +31,6 @@
   
   
   
- <h3 align="center">Others</h3> 
- 
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,ps,ae" />
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40">
-  </a>
-</p>
   
 
   
