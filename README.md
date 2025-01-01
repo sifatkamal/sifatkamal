@@ -6,8 +6,6 @@
 
 <h3 align="center">Software Testing | Web Development | Graphics Designing</h3>
 
-<!-- Currently, I'm a 4th-year student of Computer Science and Engineering who tries to be well organized and passionate about every types of work. I every time eager to learn new skills and always look for an opportunity to achieve something good. -->
-
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-username&color=7f3ace) -->
