@@ -52,20 +52,15 @@
 <h2 align="CENTER">Contact info:</h2>
 <p align="center">
 Email:
-<a href="md.sifat.kamal@g.bracu.ac.bd">md.sifat.kamal@g.bracu.ac.bd</a></p>
+<a href="md.sifat.kamal31@gmail.com">md.sifat.kamal31@gmail.com</a></p>
   
 <p align="center">
   <a href="https://www.linkedin.com/in/md-sifat-kamal-120326147/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
     
-  <a href="https://www.facebook.com/sifat.kamal.9/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="46.54" height="46.54" />
-  </a>
+
     
-  <a href="https://www.instagram.com/mr_kamal.exe/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>    
 </p>
   
   
