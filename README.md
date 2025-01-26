@@ -20,7 +20,7 @@
  <h3 align="center"><b>Tools</b></h3> 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,postman,selenium,git,html,css,django,flask,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,java,postman,selenium,cypress,git,html,css,django,flask,mysql" />
   
 </p>
   
