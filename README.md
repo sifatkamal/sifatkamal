@@ -15,7 +15,7 @@
 <h2 align="CENTER">Contact info:</h2>
 <p align="center">
 Email:
-<a href="md.sifat.kamal31@gmail.com">md.sifat.kamal31@gmail.com</a></p>
+<a href="md.sifat.kamal@g.bracu.ac.bd">md.sifat.kamal@g.bracu.ac.bd</a></p>
 
 
 <p align="center">
